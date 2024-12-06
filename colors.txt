@@ -1,0 +1,5 @@
+Azul -> #01204E
+Celeste -> #028391
+Cremita -> #F6DCAC
+Naranja -> #FEAE6F
+Titulos -> #ECDFCC
