@@ -1,11 +1,13 @@
 import './App.css'
-import AppContent from './components/Content/AppContent'
+
+import Home from './pages/Home'
+
 function App() {
 
 
   return (
     <>
-      <AppContent></AppContent>
+      <Home/>
     </>
   )
 }
